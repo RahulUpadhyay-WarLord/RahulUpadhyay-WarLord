@@ -11,11 +11,11 @@
 - ⚡ Fun fact: I love to play games and coding
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UCD6K_VFM8vo1RhI7E6TdYDw/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-https://www.youtube.com/channel/UCD6K_VFM8vo1RhI7E6TdYDw
+[<img align="left" alt="WarLord | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="WarLord | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="WarLord | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="WarLord | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
 
 ### Languages and Tools:
@@ -90,8 +90,6 @@ https://www.youtube.com/channel/UCD6K_VFM8vo1RhI7E6TdYDw
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
