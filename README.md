@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and coding
-- ❤️ I love you Miss Saleha
+- ❤️ 
 
 ### Connect with me:
 [<img align="left" alt="WarLord | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-  Ilove You Miss Saleha
+  
 </details>
 
 [twitter]: https://twitter.com/WarLord11820019
